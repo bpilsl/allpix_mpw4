@@ -1,0 +1,25 @@
+RunNumber	threshold	fluence	model
+			
+1	3000	1e14	ljubljana
+2	3000	3e14	ljubljana
+3	3000	5e14	ljubljana
+4	3000	1e15	ljubljana
+5	3000	3e15	ljubljana
+6	3000	5e15	ljubljana
+7	3000	1e16	ljubljana
+			
+8	3000	1e14	cmstracker
+9	3000	3e14	cmstracker
+10	3000	5e14	cmstracker
+11	3000	1e15	cmstracker
+12	3000	3e15	cmstracker
+13	3000	5e15	cmstracker
+14	3000	1e16	cmstracker
+			
+15	3000	1e14	mandic
+16	3000	3e14	mandic
+17	3000	5e14	mandic
+18	3000	1e15	mandic
+19	3000	3e15	mandic
+20	3000	5e15	mandic
+21	3000	1e16	mandic
